@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is a Namaste React by Vaibhavi Bodke",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaibhavi7499/namste-react.git"
+  },
+  "keywords": [],
+  "author": "Vaibhavi Bodke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaibhavi7499/namste-react/issues"
+  },
+  "homepage": "https://github.com/Vaibhavi7499/namste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
